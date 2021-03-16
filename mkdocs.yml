@@ -1,0 +1,8 @@
+site_name: "chernobyl"
+site_description: "test-react-ssr"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
