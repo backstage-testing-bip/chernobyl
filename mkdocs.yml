@@ -3,6 +3,7 @@ site_description: "test-react-ssr"
 
 nav:
   - Introduction: index.md
+  - Kurt: kurt.md
 
 plugins:
   - techdocs-core
